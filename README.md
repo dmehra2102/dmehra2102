@@ -52,10 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vjarwekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vjarwekar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-jarwekar-4039611a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-jarwekar-4039611a3" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vaibhavjarwekar5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vaibhavjarwekar5526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vj5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vj5526" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavjarwekar5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavjarwekar5526" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepanshu-mehra-14a472233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-jarwekar-4039611a3" height="30" width="40" /></a>
 </p>
 
