@@ -14,6 +14,8 @@
 ---
 
 ### :woman_technologist: About Me :
+I am an Aspiring Full Stack Web Developer who likes learning and building things that upgrade my skills. I am currently studying full-stack web development at Masai school.I aim to be productive, efficient, and effective for the organization in which I will be working. I also look forward to exchanging ideas, contributing to the workflow, and learning new things for the betterment of my career as well as the organization.
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m an aspiring web developer and contributing to frontend and backend for building web applications.
 
