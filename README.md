@@ -22,7 +22,18 @@ I am a Full Stack Developer  from India.
 
 <br/>
 
+<div display="flex" align-item="center" text-align="center">
+  <div align-item="center" text-align="center">
+    
 ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmehra2102&show_icons=true&theme=radical)
+    
+  </div align-item="center" text-align="center">
+  <div>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmehra2102&layout=compact)](https://github.com/dmehra2102/github-readme-stats)
+    
+  </div>
+  </div>
 <!--
 **dmehra2102/dmehra2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
