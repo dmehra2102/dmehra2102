@@ -8,7 +8,7 @@
 ## About Me
 I am a Full Stack Developer  from India.
 
-- 🌱 I’m currently working in the FinTech industry.
+- 🌱 I’m currently learning MERN stack.
 - 💬 Ask me about <b>JavaScript</b>
 - 🔭 I’m currently working on Skills  
 - ❓ Ask me about anything related to MERN stack and related technologies  
