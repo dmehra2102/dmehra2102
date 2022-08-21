@@ -22,13 +22,15 @@ I am a Full Stack Developer  from India.
 
 <br/>
 
+### My Stats
+
 <div display="flex" align-item="center" text-align="center">
-  <div align-item="center" text-align="center">
+  <div align="center">
     
 ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmehra2102&show_icons=true&theme=radical)
     
-  </div align-item="center" text-align="center">
-  <div>
+  </div>
+  <div align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmehra2102&layout=compact)](https://github.com/dmehra2102/github-readme-stats)
     
