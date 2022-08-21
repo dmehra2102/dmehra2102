@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hi! I'm Deepanshu 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h2>  
+  <h1 align="center">Hi! I'm Deepanshu 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h1>  
 <img src="https://camo.githubusercontent.com/12254fd8d6359609f6f8bac3f69f098421ef772d916420cdf2dd703bbb4d39bd/68747470733a2f2f73646b2e6269746d6f6a692e636f6d2f72656e6465722f70616e656c2f32303035343930322d3130303132313639343235385f322d73352d76312e706e673f7472616e73706172656e743d312670616c657474653d31267363616c653d32" align="center" style="width: 45%; height:45% " />
 </div> 
 <br/>
@@ -39,9 +39,8 @@ I am a Full Stack Developer  from India.
   
   🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/deepanshu-mehra-14a472233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshumehra" height="30" width="40" /></a>
+</p>
 
 <!--
 **dmehra2102/dmehra2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
