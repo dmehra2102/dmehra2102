@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi! I'm Deepanshu 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h1>  
-<img src="https://camo.githubusercontent.com/12254fd8d6359609f6f8bac3f69f098421ef772d916420cdf2dd703bbb4d39bd/68747470733a2f2f73646b2e6269746d6f6a692e636f6d2f72656e6465722f70616e656c2f32303035343930322d3130303132313639343235385f322d73352d76312e706e673f7472616e73706172656e743d312670616c657474653d31267363616c653d32" align="center" style="width: 45%; height:45% " />
+<img src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg" align="center" style="width: 45%; height:45% " />
 </div> 
 <br/>
 
@@ -18,7 +18,7 @@ I am a Full Stack Developer  from India.
 ### Technologies I use:
 
 > <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/github.svg' alt='GitHub' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/html.svg' alt='HTML' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/css.svg' alt='CSS' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/javascript.svg' alt='JavaScript' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/typescript.svg' alt='TypeScript' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/react.svg' alt='React.js' height='60' /> <img src='https://ucarecdn.com//18f8cbd7-fcd7-43b9-bc2e-3fc86cabf058/' alt='Netlify' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/redux.svg' alt='Redux' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/nodejs.svg' alt='Node.js' height='60' /> <img src='https://github.com/belferink1996/belferink1996/blob/main/icons/mongodb.svg' alt='MongoDB' height='60' /><img src='https://expressjs.com/images/express-facebook-share.png' alt='express.js' height='60' /><img src='https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.png' alt='prisma' height='56' />
-> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFHz8fWJIEf4jyPe6v-5-nfoSWmcO4CdZtWFSNF4V&s' alt='graphql' height='60' /> 
+> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFHz8fWJIEf4jyPe6v-5-nfoSWmcO4CdZtWFSNF4V&s' alt='graphql' height='60' />  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png' alt='svelte' height='60' /> 
 
 
 <br/>
