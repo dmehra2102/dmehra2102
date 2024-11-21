@@ -1,14 +1,14 @@
 <div align="center">
-  <h1 align="center">Hi! I'm Deepanshu 👋, a Full-Stack MERN Developer 👨‍💻 🚀</h1>  
+  <h1 align="center">Hi! I'm Deepanshu 👋, a Full-Stack Developer 👨‍💻 🚀</h1>  
 <img src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg" align="center" style="width: 45%; height:45% " />
 </div> 
 <br/>
 
 ## About Me
-I am a Full Stack Developer  from India.
+I am a Full Stack Developer from India.
 
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about <b>JavaScript</b>
+- 🌱 I’m currently learning go(golang).
+- 💬 Ask me about <b>MERN stack</b>
 - 🔭 I’m currently working on Skills  
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepanshu-mehra-14a472233/)
