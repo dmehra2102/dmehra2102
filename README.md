@@ -7,7 +7,7 @@
 ## About Me
 I am a Full Stack Developer from India.
 
-- 🌱 I’m currently learning go(golang).
+- 🌱 I’m currently working on go(golang).
 - 💬 Ask me about <b>MERN stack</b>
 - 🔭 I’m currently working on Skills  
 - ❓ Ask me about anything related to MERN stack and related technologies  
